@@ -178,6 +178,12 @@ The app uses JWT (JSON Web Tokens) for secure authentication:
 - `PUT /api/tasks/:id` - Update task
 - `DELETE /api/tasks/:id` - Delete task
 
+## Video 
+
+https://github.com/user-attachments/assets/a6b4fb95-2538-4511-8791-769b35362b4e
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -200,3 +206,4 @@ This project is open source and available under the MIT License.
 ---
 
 Made with ❤️ using React, Node.js, and MongoDB
+
